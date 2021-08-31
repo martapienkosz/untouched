@@ -1,3 +1,2 @@
-## Alternate Realities
-### IM-UH 3311
+## Alternate Realities (IM-UH 3311)
 by Marta Pienkosz
