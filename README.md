@@ -1,2 +1,2 @@
 ## Alternate Realities (IM-UH 3311)
-by Marta Pienkosz
+Welcome to my Github Page!
