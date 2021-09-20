@@ -34,6 +34,8 @@ Any final thoughts
 
 
 ### Inspiration
+<img src="/docs/images/91.png" width="300"> <img src="/docs/images/92.png" width="300"> <img src="/docs/images/93.png" width="300">
+<img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300">
 
 
 
