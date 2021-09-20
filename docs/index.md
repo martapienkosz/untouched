@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/1.png)
 
 <img src= "https://github.com/martapienkosz/interactivemedia/blob/master/Media/pic1.jpg" width= "300">
 
