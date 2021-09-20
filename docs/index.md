@@ -7,17 +7,8 @@ Nature has **flourished** in the **abandoned space**, somewhat damaged in recent
 
 ### Description
 
-The abandoned house is in the middle
-of a wild forest.
+In the middle of a wild, overgrown forest there is an abandoned wooden house. The roof has long since collapsed under the weight of leaves and snow falling every season, and the ivy slowly began to claim the space once inhabited. There is no trace of lates human activity. Someone must have left this house in a hurry, knocking over some items and leaving only the heaviest pieces of furniture behind. Around the walls of the house as well as on the floor one can spot a mysterious green dust floting - is it a ravising exhibit of a new form of nature or is it the source of depicted ravage?
 
-Visual and user experience documentation
-A screen recording of the app experience (embedded from youtube/vimeo)
-Multiple screenshots of key cinematic moments
-
-Explanation of the premise of the storyworld and the concept for this particular space
-
-
-Reflect on your experience (use your progress reports for material)
 ### Process
 
 I started my project by imagining the space I want to design and then sketching it on a piece of paper. The next step was searching Unity Assets for ones that would make my space look compelling. I have carefully examined the usefullness of found assets and started composiing the scene - first by differentiating the terrain, nextly by wrapping the ground with ivy and finally putting inside of this wildness an abandoned house.
@@ -37,6 +28,8 @@ How do you hint traces of a virus? I looked for appropriate assets that would in
 
 ![](/docs/images/33.png) ![](/docs/images/39.png)
 
+<img src="/docs/images/39.png" width="100">
+
 WIP screenshots, sketches, etc from along the way
 Playtesting documentation
 Challenges you face and things you learned to overcome them and/or how you would do things differently in the future
@@ -46,19 +39,6 @@ Any final thoughts
 ### Inspiration
 
 
-
-![GitHub Logo](/docs/images/1.png | width=200)
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
