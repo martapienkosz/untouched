@@ -13,22 +13,19 @@ In the middle of a wild, overgrown forest there is an abandoned wooden house. Th
 
 I started my project by imagining the space I want to design and then sketching it on a piece of paper. The next step was searching Unity Assets for ones that would make my space look compelling. I have carefully examined the usefullness of found assets and started composiing the scene - first by differentiating the terrain, nextly by wrapping the ground with ivy and finally putting inside of this wildness an abandoned house.
 
-![](/docs/images/1.png) ![](/docs/images/4.png) ![](/docs/images/5.png)
+<img src="/docs/images/1.png" width="250"> <img src="/docs/images/4.png" width="250"> <img src="/docs/images/5.png" width="250">
 
 Filling the space with ivy enhances the storytelling, it is thanks to these small elements that users can immerse into the natural wilderness and the maze of trees (I got lost in them several times!)
 
-![](/docs/images/37.png) ![](/docs/images/36.png) 
+<img src="/docs/images/37.png" width="250"> <img src="/docs/images/36.png" width="250">
 
 Abandoned furniture, often displaced and devoid of personal belongings, books or expensive electronics, create a narrative of leaving the space in a rush and with the intention of never comming back. The furniture look damaged and relatively old - it can be assumed that someone left this house in the 1980s.
 
-![](/docs/images/34.png) ![](/docs/images/35.png) 
-
+<img src="/docs/images/34.png" width="250"> <img src="/docs/images/35.png" width="250"
 
 How do you hint traces of a virus? I looked for appropriate assets that would indicate how the village was ravaged - such as broken chemicals or masks. Instead, I came up with the idea of mysterious green dust floating in the air around the house. It is intriguing and a bit terrifying at the same time.
 
-![](/docs/images/33.png) ![](/docs/images/39.png)
-
-<img src="/docs/images/39.png" width="100">
+<img src="/docs/images/33.png" width="250"> <img src="/docs/images/39.png" width="250">
 
 WIP screenshots, sketches, etc from along the way
 Playtesting documentation
