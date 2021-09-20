@@ -66,6 +66,10 @@
 # Other
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.dll filter=lfs diff=lfs merge=lfs -text
 
 *.unity filter=lfs diff=lfs merge=lfs -text
+=======
+*.dll filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 53f19a75a014fa3b8ff4a3db63812e54e5ff37c7
