@@ -27,6 +27,9 @@ How do you hint traces of a virus? I looked for appropriate assets that would in
 
 <img src="/docs/images/33.png" width="300"> <img src="/docs/images/39.png" width="300">
 
+#### First dylema: Lightning
+I was wondering whether to insert the neon lights and slightly light up the interior of the house. At the moment, the space is a bit dark and difficult to navigate. However, it is an abandoned house and lighting elements simply do not have the right to exist in it. To improve orientation and slightly lit up the space slightly, I added more mysterious green particles that would mark the boundaries of the floor or the walls. Unfortunately, my computer takes 12 hours to bake the lightning, so the neon-like material is still stuck in my dreams.
+
 WIP screenshots, sketches, etc from along the way
 Playtesting documentation
 Challenges you face and things you learned to overcome them and/or how you would do things differently in the future
@@ -34,12 +37,8 @@ Any final thoughts
 
 
 ### Inspiration
+Revisiting Chernobyl, 35years after the distaster:
 <img src="/docs/images/91.png" width="300"> <img src="/docs/images/92.png" width="300"> <img src="/docs/images/93.png" width="300">
 <img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300">
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+... as well as [Scandinavia's TV series: The Rain](https://www.netflix.com/ae-en/title/80154610)
