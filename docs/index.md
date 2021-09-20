@@ -1,5 +1,5 @@
 # Untouched
-# Alternate Realities Project by Marta Pienkosz
+### Alternate Realities Project by Marta Pienkosz
 
 In 1984, a **ruthless virus ravished** a small village in the south of the Untouched world. Some residents managed to escape in time and settle in the north. Not everyone was so lucky. Most confronted **immediate death.**
 
@@ -30,14 +30,15 @@ How do you hint traces of a virus? I looked for appropriate assets that would in
 ### First dylema: Lightning
 I was wondering whether to insert the neon lights and slightly light up the interior of the house. At the moment, the space is a bit dark and difficult to navigate. However, it is an abandoned house and lighting elements simply do not have the right to exist in it. To improve orientation and slightly lit up the space slightly, I added more mysterious green particles that would mark the boundaries of the floor or the walls. Unfortunately, my computer takes 12 hours to bake the lightning, so the neon-like material is still stuck in my dreams.
 
-WIP screenshots, sketches, etc from along the way
-Playtesting documentation
-Challenges you face and things you learned to overcome them and/or how you would do things differently in the future
-Any final thoughts
+### Second dylema: Environment 
+At first, I wanted to create a slightly more mysterious and traumatic environment by setting the dusk snapshot as the skybox. However, the story narrative isn't mysterious at all, it should emphasize the stunning victory of the flourishing nature and the defeat of humanity. Paradoxically, the place should radieate with the positive energy hence the lack of dramatic nature.
 
+### Third dylema: Trees
+After building the forest I have noticed that some trees just don't encompass the lighting of the environment. I had to replace them, but the question - why - is still lingering in my mind
 
 ## Inspiration
-Revisiting Chernobyl, 35years after the distaster:
+Revisiting Chernobyl, 35years after the distaster.
+
 <img src="/docs/images/91.png" width="300"> <img src="/docs/images/92.png" width="300"> <img src="/docs/images/93.png" width="300">
 <img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300"> <img src="/docs/images/96.png" width="300">
 
