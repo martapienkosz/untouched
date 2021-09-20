@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+<img src= "https://github.com/martapienkosz/interactivemedia/blob/master/Media/pic1.jpg" width= "300">
 
 # Header 1
 ## Header 2
