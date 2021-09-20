@@ -33,6 +33,8 @@ I was wondering whether to insert the neon lights and slightly light up the inte
 ### Second dylema: Environment 
 At first, I wanted to create a slightly more mysterious and traumatic environment by setting the dusk snapshot as the skybox. However, the story narrative isn't mysterious at all, it should emphasize the stunning victory of the flourishing nature and the defeat of humanity. Paradoxically, the place should radieate with the positive energy hence the lack of dramatic nature.
 
+<img src="/docs/images/16.png" width="300"> <img src="/docs/images/18.png" width="300">
+
 ### Third dylema: Trees
 After building the forest I have noticed that some trees just don't encompass the lighting of the environment. I had to replace them, but the question - why - is still lingering in my mind
 
