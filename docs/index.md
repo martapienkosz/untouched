@@ -5,11 +5,11 @@ In 1984, a **ruthless virus ravished** a small village in the south of the Untou
 
 Nature has **flourished** in the **abandoned space**, somewhat damaged in recent decades. The Village is currently a **nature-dominated** ruin that only the brave can visit. Rumors have reported that deadly particles are still hovering in the air.
 
-### Description
+## Description
 
 In the middle of a wild, overgrown forest there is an abandoned wooden house. The roof has long since collapsed under the weight of leaves and snow falling every season, and the ivy slowly began to claim the space once inhabited. There is no trace of lates human activity. Someone must have left this house in a hurry, knocking over some items and leaving only the heaviest pieces of furniture behind. Around the walls of the house as well as on the floor one can spot a mysterious green dust floting - is it a ravising exhibit of a new form of nature or is it the source of depicted ravage?
 
-### Process
+## Process
 
 I started my project by imagining the space I want to design and then sketching it on a piece of paper. The next step was searching Unity Assets for ones that would make my space look compelling. I have carefully examined the usefullness of found assets and started composiing the scene - first by differentiating the terrain, nextly by wrapping the ground with ivy and finally putting inside of this wildness an abandoned house.
 
@@ -27,7 +27,7 @@ How do you hint traces of a virus? I looked for appropriate assets that would in
 
 <img src="/docs/images/33.png" width="300"> <img src="/docs/images/39.png" width="300">
 
-#### First dylema: Lightning
+### First dylema: Lightning
 I was wondering whether to insert the neon lights and slightly light up the interior of the house. At the moment, the space is a bit dark and difficult to navigate. However, it is an abandoned house and lighting elements simply do not have the right to exist in it. To improve orientation and slightly lit up the space slightly, I added more mysterious green particles that would mark the boundaries of the floor or the walls. Unfortunately, my computer takes 12 hours to bake the lightning, so the neon-like material is still stuck in my dreams.
 
 WIP screenshots, sketches, etc from along the way
@@ -36,7 +36,7 @@ Challenges you face and things you learned to overcome them and/or how you would
 Any final thoughts
 
 
-### Inspiration
+## Inspiration
 Revisiting Chernobyl, 35years after the distaster:
 <img src="/docs/images/91.png" width="300"> <img src="/docs/images/92.png" width="300"> <img src="/docs/images/93.png" width="300">
 <img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300">
