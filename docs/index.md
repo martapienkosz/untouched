@@ -1,5 +1,5 @@
 # Untouched
-## Alternate Realities Project by Marta Pienkosz
+# Alternate Realities Project by Marta Pienkosz
 
 In 1984, a **ruthless virus ravished** a small village in the south of the Untouched world. Some residents managed to escape in time and settle in the north. Not everyone was so lucky. Most confronted **immediate death.**
 
@@ -39,6 +39,6 @@ Any final thoughts
 ## Inspiration
 Revisiting Chernobyl, 35years after the distaster:
 <img src="/docs/images/91.png" width="300"> <img src="/docs/images/92.png" width="300"> <img src="/docs/images/93.png" width="300">
-<img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300">
+<img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300"> <img src="/docs/images/96.png" width="300">
 
 ... as well as [Scandinavia's TV series: The Rain](https://www.netflix.com/ae-en/title/80154610)
