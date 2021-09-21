@@ -41,6 +41,8 @@ After building the forest I have noticed that some trees just don't encompass th
 ### Animation
 Finally, I decided to add gentle animations, moving trees and the sound of the wind. At first the animations worked perfectly and [here you can see the result](https://drive.google.com/file/d/1t4p_XzLO4XIRld974nx0V8PtAPkWdEWu/view?usp=sharing)! Unfortunately later something went wrong and I was no longer able to add clip properties to objects (and there are 60 triples so I preferred not to do it manually). For 2 hours I had been trying various ways, by copying clips and adding to objects, modifying in the timeline, but nothing worked properly.
 
+<img src="/docs/images/41.png" width="300"> <img src="/docs/images/40.png" width="300">
+
 ## Inspiration
 Revisiting Chernobyl, 35years after the distaster.
 
