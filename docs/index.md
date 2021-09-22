@@ -11,7 +11,8 @@ In the middle of a wild, **overgrown forest** there is an abandoned wooden house
 
 User perspective on scene. Initially, the user only sees a maze of trees, with a 360-degree rotation user will be able to see part of the abandoned house.
 
-![](images/43.png) ![](images/44.png)
+![](images/43.png)
+![](images/44.png)
 
 ## Process
 
