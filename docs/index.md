@@ -9,6 +9,10 @@ Nature has **flourished** in the **abandoned space**, somewhat damaged in recent
 
 In the middle of a wild, **overgrown forest** there is an abandoned wooden house. The roof has long since collapsed under the weight of leaves and snow falling every season, and the ivy slowly began to claim the space once inhabited. There is **no trace** of lates human activity. Someone must have left this house in a hurry, knocking over some items and leaving only the heaviest pieces of furniture behind. Around the walls of the house as well as on the floor one can spot a **mysterious green dust floting** - is it a ravising exhibit of a new form of nature or is it the source of **depicted ravage**?
 
+User perspective on scene. Initially, the user only sees a maze of trees, with a 360-degree rotation user will be able to see part of the abandoned house.
+
+![](images/43.png) ![](images/44.png)
+
 ## Process
 
 I started my project by imagining the space I want to design and then sketching it on a piece of paper. The next step was searching Unity Assets for ones that would make my space look compelling. I have carefully examined the usefullness of found assets and started composiing the scene - first by differentiating the terrain, nextly by wrapping the ground with ivy and finally putting inside of this wildness an abandoned house.
