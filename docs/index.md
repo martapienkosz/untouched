@@ -63,3 +63,4 @@ Revisiting Chernobyl, 35years after the distaster ... as well as [Scandinavia's 
 ![](images/95.png)
 ![](images/96.png)
 
+<link rel="shortcut icon" type="image/x-icon" href="images/logo.ico">
