@@ -17,11 +17,11 @@ I started my project by imagining the space I want to design and then sketching 
 
 Filling the space with ivy enhances the storytelling, it is thanks to these small elements that users can immerse into the natural wilderness and the maze of trees (I got lost in them several times!)
 
-<img src="/docs/images/37.png" width="300"> <img src="/docs/images/36.png" width="300">
+<img src="/images/37.png" width="300"> <img src="/images/36.png" width="300">
 
 Abandoned furniture, often displaced and devoid of personal belongings, books or expensive electronics, create a narrative of leaving the space in a rush and with the intention of never comming back. The furniture look damaged and relatively old - it can be assumed that someone left this house in the 1980s.
 
-<img src="/docs/images/34.png" width="300"> <img src="/docs/images/35.png" width="300">
+<img src="/images/34.png" width="300"> <img src="/images/35.png" width="300">
 
 How do you hint traces of a virus? I looked for appropriate assets that would indicate how the village was ravaged - such as broken chemicals or masks. Instead, I came up with the idea of mysterious green dust floating in the air around the house. It is intriguing and a bit terrifying at the same time.
 
