@@ -7,7 +7,7 @@ Nature has **flourished** in the **abandoned space**, somewhat damaged in recent
 
 ## Description
 
-In the middle of a wild, overgrown forest there is an abandoned wooden house. The roof has long since collapsed under the weight of leaves and snow falling every season, and the ivy slowly began to claim the space once inhabited. There is no trace of lates human activity. Someone must have left this house in a hurry, knocking over some items and leaving only the heaviest pieces of furniture behind. Around the walls of the house as well as on the floor one can spot a mysterious green dust floting - is it a ravising exhibit of a new form of nature or is it the source of depicted ravage?
+In the middle of a wild, **overgrown forest** there is an abandoned wooden house. The roof has long since collapsed under the weight of leaves and snow falling every season, and the ivy slowly began to claim the space once inhabited. There is **no trace** of lates human activity. Someone must have left this house in a hurry, knocking over some items and leaving only the heaviest pieces of furniture behind. Around the walls of the house as well as on the floor one can spot a **mysterious green dust floting** - is it a ravising exhibit of a new form of nature or is it the source of **depicted ravage**?
 
 ## Process
 
@@ -18,6 +18,7 @@ I started my project by imagining the space I want to design and then sketching 
 ![](images/5.png)
 
 Filling the space with ivy enhances the storytelling, it is thanks to these small elements that users can immerse into the natural wilderness and the maze of trees (I got lost in them several times!)
+
 ![](images/37.png)
 ![](images/36.png)
 
@@ -49,9 +50,12 @@ Finally, I decided to add gentle animations, moving trees and the sound of the w
 ![](images/40.png)
 
 ## Inspiration
-Revisiting Chernobyl, 35years after the distaster.
+Revisiting Chernobyl, 35years after the distaster ... as well as [Scandinavia's TV series: The Rain](https://www.netflix.com/ae-en/title/80154610)
 
-<img src="/docs/images/91.png" width="300"> <img src="/docs/images/92.png" width="300"> <img src="/docs/images/93.png" width="300">
-<img src="/docs/images/94.png" width="300"> <img src="/docs/images/95.png" width="300"> <img src="/docs/images/96.png" width="300">
+![](images/91.png)
+![](images/92.png)
+![](images/93.png)
+![](images/94.png)
+![](images/95.png)
+![](images/96.png)
 
-... as well as [Scandinavia's TV series: The Rain](https://www.netflix.com/ae-en/title/80154610)
