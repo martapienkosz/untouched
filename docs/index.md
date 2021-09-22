@@ -14,6 +14,7 @@ In the middle of a wild, overgrown forest there is an abandoned wooden house. Th
 I started my project by imagining the space I want to design and then sketching it on a piece of paper. The next step was searching Unity Assets for ones that would make my space look compelling. I have carefully examined the usefullness of found assets and started composiing the scene - first by differentiating the terrain, nextly by wrapping the ground with ivy and finally putting inside of this wildness an abandoned house.
 
 <img src="https://github.com/martapienkosz/untouched/blob/main/docs/images/1.png" width="300"> <img src="/docs/images/4.png" width="300"> <img src="/docs/images/5.png" width="300">
+![](images/1.png) ![](images/4.png) ![](images/5.png)
 
 Filling the space with ivy enhances the storytelling, it is thanks to these small elements that users can immerse into the natural wilderness and the maze of trees (I got lost in them several times!)
 ![](images/37.png) ![](images/36.png)
