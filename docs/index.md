@@ -16,8 +16,9 @@ I started my project by imagining the space I want to design and then sketching 
 <img src="https://github.com/martapienkosz/untouched/blob/main/docs/images/1.png" width="300"> <img src="/docs/images/4.png" width="300"> <img src="/docs/images/5.png" width="300">
 
 Filling the space with ivy enhances the storytelling, it is thanks to these small elements that users can immerse into the natural wilderness and the maze of trees (I got lost in them several times!)
+![](/images/37.png) ![](/images/36.png)
 
-<img src="/images/37.png" width="300"> <img src="/images/36.png" width="300">
+<img src="images/37.png" width="300"> <img src="/images/36.png" width="300">
 
 Abandoned furniture, often displaced and devoid of personal belongings, books or expensive electronics, create a narrative of leaving the space in a rush and with the intention of never comming back. The furniture look damaged and relatively old - it can be assumed that someone left this house in the 1980s.
 
